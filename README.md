@@ -1,5 +1,5 @@
 # Seguidor de linha 
-Projeto de uma Robô seguidor de linha usando o Arduino
+Projeto de um Robô seguidor de linha usando o Arduino
 ## Autor 
 Kauan Oliveira Cardozo 
 ## Licença 
